@@ -67,17 +67,17 @@ If you discover any security related issues, please email alive2212@yahoo.com in
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/alive2212/array-helper.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/Alive2212/array-helper.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 [ico-travis]: https://img.shields.io/travis/Alive2212/ArrayHelper/master.svg?style=flat-square
 [ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/Alive2212/ArrayHelper.svg?style=flat-square
 [ico-code-quality]: https://img.shields.io/scrutinizer/g/Alive2212/ArrayHelper.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/alive2212/array-helper.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/Alive2212/array-helper.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/alive2212/array-helper
+[link-packagist]: https://packagist.org/packages/Alive2212/array-helper
 [link-travis]: https://travis-ci.org/Alive2212/ArrayHelper
 [link-scrutinizer]: https://scrutinizer-ci.com/g/Alive2212/ArrayHelper/code-structure
 [link-code-quality]: https://scrutinizer-ci.com/g/Alive2212/ArrayHelper
-[link-downloads]: https://packagist.org/packages/alive2212/array-helper
+[link-downloads]: https://packagist.org/packages/Alive2212/array-helper
 [link-author]: https://github.com/https://github.com/Alive2212
 [link-contributors]: ../../contributors
