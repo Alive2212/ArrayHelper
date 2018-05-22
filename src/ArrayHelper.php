@@ -14,9 +14,19 @@ use phpseclib\Math\BigInteger;
 
 class ArrayHelper
 {
+    /**
+     * @var array
+     */
     protected $resultValue = [];
+
+    /**
+     * @var array
+     */
     protected $resultKey = [];
 
+    /**
+     * ArrayHelper constructor.
+     */
     public function __construct()
     {
     }
@@ -59,11 +69,21 @@ class ArrayHelper
         return $this->resultKey;
     }
 
+    /**
+     * @param $key
+     * @return mixed
+     */
     public function getKey($key)
     {
         return $this->resultKey[$key];
     }
 
+    /**
+     * @param $array
+     * @param $keys
+     * @param string $delimiter
+     * @return null
+     */
     public function getDeep($array, $keys, $delimiter = '.')
     {
         if (is_array($keys)) {
@@ -82,23 +102,11 @@ class ArrayHelper
         return $array;
     }
 
-//    public function getDeepNew($array,$key,$returnedArray = null,$delimiter='.')
-//    {
-//        $response = null;
-//        $keyValues = explode($delimiter,$key);
-////        if(!is_null($returnedArray)){
-//            if ($this->isMapArray($array)){
-//
-//            }else{
-//                foreach ( as $item) {
-//
-//                }
-//            }
-////        }
-//    }
-//
-    public
-    function isMapArray($array)
+    /**
+     * @param $array
+     * @return bool
+     */
+    public function isMapArray($array)
     {
         $result = false;
         foreach ($array as $key => $value) {

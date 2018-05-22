@@ -1,7 +1,7 @@
 {
-    "name": "Alive2212/ArrayHelper",
+    "name": "alive2212/array-helper",
     "type": "library",
-    "description": ":package_description",
+    "description": "this is array helper",
     "keywords": [
         "Alive2212",
         "ArrayHelper"
@@ -10,9 +10,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": ":author_website",
+            "name": "Babak Nodoust",
+            "email": "alive2212@yahoo.com",
+            "homepage": "https://babakn.com",
             "role": "Developer"
         }
     ],
