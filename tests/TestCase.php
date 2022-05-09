@@ -1,6 +1,6 @@
 <?php
 
-namespace Alive2212\ArrayHelperTest\tests;
+namespace Alive2212\ArrayHelperTest;
 
 use Illuminate\Foundation\Testing\TestCase as BaseTestCase;
 
